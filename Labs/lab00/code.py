@@ -4,7 +4,7 @@ def fizzbuzz(num):
     elif num%5==0 and num%3!=0:
         print("num: buzz")
     elif num%3==0 and num%5==0:
-        print("num: fizzbuzzaaa")
+        print("num: fizzbuzzclll")
     else:
         return
 num = input()
